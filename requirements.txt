@@ -1,0 +1,4 @@
+jax==0.4.6
+dm_haiku==0.0.9
+optax==0.1.4
+dm-tree==0.1.8
